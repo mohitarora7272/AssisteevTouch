@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_popup_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <GridView
+        android:id="@+id/main_popup_gv_background"
+        android:layout_width="280.0dip"
+        android:layout_height="280.0dip"
+        android:layout_gravity="center"
+        android:background="@drawable/popup_bg"
+        android:focusable="false"
+        android:listSelector="@android:color/transparent"
+        android:longClickable="false"
+        android:numColumns="3"
+        android:padding="5.0dip"
+        android:scrollbars="none"
+        android:visibility="visible" />
+
+    <GridView
+        android:id="@+id/main_popup_gv_favor"
+        android:layout_width="280.0dip"
+        android:layout_height="280.0dip"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:listSelector="@android:color/transparent"
+        android:longClickable="true"
+        android:numColumns="3"
+        android:padding="5.0dip"
+        android:scrollbars="none"
+        android:visibility="gone" />
+
+    <GridView
+        android:id="@+id/main_popup_gv_setting"
+        android:layout_width="280.0dip"
+        android:layout_height="280.0dip"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:listSelector="@android:color/transparent"
+        android:longClickable="true"
+        android:numColumns="3"
+        android:padding="5.0dip"
+        android:scrollbars="none"
+        android:visibility="gone" />
+
+    <GridView
+        android:id="@+id/main_popup_gv_main"
+        android:layout_width="280.0dip"
+        android:layout_height="280.0dip"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:listSelector="@android:color/transparent"
+        android:longClickable="true"
+        android:numColumns="3"
+        android:padding="5.0dip"
+        android:scrollbars="none" />
+
+</FrameLayout>

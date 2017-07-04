@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.3'
+
+    defaultConfig {
+        applicationId "com.develop.touchpro"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def project = "AssisteevTouch"
+                    //noinspection GroovyUnusedAssignment
+                    def SEP = "_"
+                    //noinspection GroovyUnusedAssignment
+                    def SEP_START = "("
+                    //noinspection GroovyUnusedAssignment
+                    def SEP_CLOSE = ")"
+                    //noinspection GroovyUnusedAssignment
+                    def buildType = variant.variantData.variantConfiguration.buildType.name
+                    //noinspection GroovyUnusedAssignment
+                    def version = variant.versionName
+                    def date = new Date();
+                    //noinspection GroovyUnusedAssignment
+                    def formattedDate = date.format('dd-MMM-yyyy')
+
+                    def newApkName = project + ".apk"
+
+                    output.outputFile = new File(output.outputFile.parent, newApkName)
+                }
+            }
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.google.android.gms:play-services-ads:11.0.2'
+}

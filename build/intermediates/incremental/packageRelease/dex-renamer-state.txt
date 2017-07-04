@@ -1,0 +1,4 @@
+#Tue Jul 04 12:29:51 IST 2017
+base.0=/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

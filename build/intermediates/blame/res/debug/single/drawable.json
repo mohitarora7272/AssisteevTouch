@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/action_setting_press_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/action_setting_press_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/panel_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/panel_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/sound_mode_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/sound_mode_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/rote_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/rote_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/ourdesignz/.android/build-cache/c04dd6b6049d16af7c2b5f6fc7d6291c9b5ace93/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/selector_button_white_click.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/selector_button_white_click.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/circle_bg_bottom.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/circle_bg_bottom.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/panel_button_bg_pressed.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/panel_button_bg_pressed.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/circle_bg_top2.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/circle_bg_top2.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/dialog_bg_white.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/dialog_bg_white.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/circle_bg_top.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/circle_bg_top.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/ourdesignz/.android/build-cache/c04dd6b6049d16af7c2b5f6fc7d6291c9b5ace93/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/flashlight_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/flashlight_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/location_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/location_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/wifi_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/wifi_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/dialog_bg_theme_top.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/dialog_bg_theme_top.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/background_main_function_pressed.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/background_main_function_pressed.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/airplane_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/airplane_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/dialog_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/dialog_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/circle_bg_top3.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/circle_bg_top3.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/selector_action_click.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/selector_action_click.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/dialog_title_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/dialog_title_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/main_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/main_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/action_setting_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/action_setting_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/background_gp.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/background_gp.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/ourdesignz/.android/build-cache/c04dd6b6049d16af7c2b5f6fc7d6291c9b5ace93/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/action_press_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/action_press_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/popup_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/popup_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/selector_action_setting_click.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/selector_action_setting_click.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/dialog_bg_theme_button.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/dialog_bg_theme_button.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/ourdesignz/.android/build-cache/c04dd6b6049d16af7c2b5f6fc7d6291c9b5ace93/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/action_add_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/action_add_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/selector_app_click.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/selector_app_click.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/popup_radio_btn_selector.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/popup_radio_btn_selector.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/selector_button_white_setting.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/selector_button_white_setting.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/background_main_function.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/background_main_function.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/thumb.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/thumb.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/ourdesignz/.android/build-cache/c04dd6b6049d16af7c2b5f6fc7d6291c9b5ace93/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/circle_bg_top1.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/circle_bg_top1.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/background_main_function_normal.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/background_main_function_normal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/title_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/title_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/panel_button_bg_normal.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/panel_button_bg_normal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/action_add.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/action_add.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/panel_setting_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/panel_setting_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/main_button_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/main_button_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/panel_button_bg.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/panel_button_bg.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/progress.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/progress.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/ourdesignz/.android/build-cache/06689ddff42caf5e1451ebd27cb0838900aee313/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/bluetooth_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/bluetooth_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/ic_cancel_white_24dp.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable/ic_cancel_white_24dp.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/drawable/abc_cab_background_internal_bg.xml"
+    }
+]

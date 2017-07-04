@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <dimen name="activity_horizontal_margin" ns1:ignore="UnusedResources">64dp</dimen>
+</resources>

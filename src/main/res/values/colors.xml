@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item type="color" name="common_signin_btn_dark_text_default" tools:ignore="UnusedResources">@android:color/white</item>
+    <item type="color" name="common_signin_btn_dark_text_pressed" tools:ignore="UnusedResources">@android:color/white</item>
+    <color name="common_signin_btn_dark_text_disabled" tools:ignore="UnusedResources">#ffaaaaaa</color>
+    <item type="color" name="common_signin_btn_dark_text_focused" tools:ignore="UnusedResources">@android:color/white</item>
+    <color name="common_signin_btn_light_text_default" tools:ignore="UnusedResources">#ff737373</color>
+    <item type="color" name="common_signin_btn_light_text_pressed" tools:ignore="UnusedResources">@android:color/white</item>
+    <color name="common_signin_btn_light_text_disabled" tools:ignore="UnusedResources">#ffaaaaaa</color>
+    <color name="common_signin_btn_light_text_focused" tools:ignore="UnusedResources">#ff737373</color>
+    <color name="common_signin_btn_default_background" tools:ignore="UnusedResources">#ffdd4b39</color>
+    <color name="common_action_bar_splitter" tools:ignore="UnusedResources">#ffd2d2d2</color>
+    <color name="wallet_bright_foreground_holo_dark" tools:ignore="UnusedResources">#fff3f3f3</color>
+    <color name="wallet_dim_foreground_holo_dark" tools:ignore="UnusedResources">#ffbebebe</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark" tools:ignore="UnusedResources">#80bebebe</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark" tools:ignore="UnusedResources">#ff323232</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark" tools:ignore="UnusedResources">#80323232</color>
+    <color name="wallet_bright_foreground_disabled_holo_light" tools:ignore="UnusedResources">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_light" tools:ignore="UnusedResources">#ff000000</color>
+    <color name="wallet_hint_foreground_holo_light" tools:ignore="UnusedResources">#ff808080</color>
+    <color name="wallet_hint_foreground_holo_dark" tools:ignore="UnusedResources">#ff808080</color>
+    <color name="wallet_highlighted_text_holo_light" tools:ignore="UnusedResources">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_dark" tools:ignore="UnusedResources">#6633b5e5</color>
+    <color name="wallet_holo_blue_light" tools:ignore="UnusedResources">#ff33b5e5</color>
+    <color name="wallet_link_text_light" tools:ignore="UnusedResources">#ff0000ee</color>
+    <color name="red" tools:ignore="UnusedResources">#ffe2231a</color>
+    <color name="dark_red" tools:ignore="UnusedResources">#ff510209</color>
+    <color name="default_screen_bg" tools:ignore="UnusedResources">#ff20324a</color>
+    <color name="rounded_container_bg" tools:ignore="UnusedResources">#80000000</color>
+    <color name="rounded_container_border" tools:ignore="UnusedResources">#ff3b3f44</color>
+    <color name="light_gray_header_color" tools:ignore="UnusedResources">#005d5d5d</color>
+    <color name="app_press_bg">#aa78dbff</color>
+    <color name="white_press_bg">#11111111</color>
+    <color name="white_press_setting_bg" tools:ignore="UnusedResources">#fff1f1f1</color>
+    <color name="bg_startcolor">#FF2D242D</color>
+    <color name="bg_endcolor">#FF2D242D</color>
+    <color name="bg_main_button_startcolor" tools:ignore="UnusedResources">#ff6b9fff</color>
+    <color name="bg_main_button_endcolor" tools:ignore="UnusedResources">#ffac43bb</color>
+    <color name="text_status_color" tools:ignore="UnusedResources">#ffb24d35</color>
+    <color name="text_blue">#ff007aff</color>
+    <color name="text_subtitle">#aa4e4e4e</color>
+    <color name="text_details" tools:ignore="UnusedResources">#ff7f7f7f</color>
+    <color name="c1">#ff6271c1</color>
+    <color name="c2">#ff91746a</color>
+    <color name="c3">#ff489de7</color>
+    <color name="c4">#ff9fcc6b</color>
+    <color name="c5">#ffaeaeae</color>
+    <color name="c6">#ffd95656</color>
+    <color name="c7">#ff32b7f3</color>
+    <color name="c8">#ffd4e05e</color>
+    <color name="c9">#ff656565</color>
+    <color name="c10">#ffea487f</color>
+    <color name="c11">#ff30c6da</color>
+    <color name="c12">#fffcec5f</color>
+    <color name="c13">#ff494949</color>
+    <color name="c14">#ffad4fbd</color>
+    <color name="c15">#ff30a89d</color>
+    <color name="c16">#fffcca36</color>
+    <color name="c17">#ff7d949f</color>
+    <color name="c18">#ff7b5abe</color>
+    <color name="c19">#ff6dbc70</color>
+    <color name="c20">#fffcaa30</color>
+</resources>

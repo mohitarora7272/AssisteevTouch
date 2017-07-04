@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="store_picture_title" tools:ignore="UnusedResources">Save image</string>
+    <string name="store_picture_message" tools:ignore="UnusedResources">Allow to store image in gallery?</string>
+    <string name="accept" tools:ignore="UnusedResources">Accept</string>
+    <string name="decline" tools:ignore="UnusedResources">Decline</string>
+    <string name="create_calendar_title" tools:ignore="UnusedResources">Create calendar event</string>
+    <string name="create_calendar_message" tools:ignore="UnusedResources">Allow to create a calendar event?</string>
+    <string name="common_google_play_services_notification_ticker" tools:ignore="UnusedResources">Google Play services error</string>
+    <string name="common_google_play_services_notification_needs_installation_title" tools:ignore="UnusedResources">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title" tools:ignore="UnusedResources">An application requires an update for Google Play services.</string>
+    <string name="common_android_wear_notification_needs_update_text" tools:ignore="UnusedResources">An application requires an update to the Android Wear app.</string>
+    <string name="common_google_play_services_needs_enabling_title" tools:ignore="UnusedResources">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg" tools:ignore="UnusedResources">Requested by %1$s</string>
+    <string name="common_google_play_services_install_title" tools:ignore="UnusedResources">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone" tools:ignore="UnusedResources">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet" tools:ignore="UnusedResources">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button" tools:ignore="UnusedResources">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title" tools:ignore="UnusedResources">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text" tools:ignore="UnusedResources">"This app won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button" tools:ignore="UnusedResources">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title" tools:ignore="UnusedResources">Update Google Play services</string>
+    <string name="common_android_wear_update_title" tools:ignore="UnusedResources">Update Android Wear</string>
+    <string name="common_google_play_services_update_text" tools:ignore="UnusedResources">"This app won't run unless you update Google Play services."</string>
+    <string name="common_android_wear_update_text" tools:ignore="UnusedResources">"This app won't run unless you update the Android Wear app."</string>
+    <string name="common_google_play_services_network_error_title" tools:ignore="UnusedResources">Network Error</string>
+    <string name="common_google_play_services_network_error_text" tools:ignore="UnusedResources">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title" tools:ignore="UnusedResources">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text" tools:ignore="UnusedResources">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unknown_issue" tools:ignore="UnusedResources">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_title" tools:ignore="UnusedResources">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text" tools:ignore="UnusedResources">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_update_button" tools:ignore="UnusedResources">Update</string>
+    <string name="common_signin_button_text" tools:ignore="UnusedResources">Sign in</string>
+    <string name="common_signin_button_text_long" tools:ignore="UnusedResources">Sign in with Google</string>
+    <string name="common_open_on_phone" tools:ignore="UnusedResources">Open on phone</string>
+    <string name="wallet_buy_button_place_holder" tools:ignore="UnusedResources">Buy with Google</string>
+    <string name="app_name">Assisteev Touch</string>
+    <string name="action_settings" tools:ignore="UnusedResources">Settings</string>
+    <string name="action_rate">Rate Us</string>
+    <string name="action_more">More Apps</string>
+    <string name="action_uninstall" tools:ignore="UnusedResources">Uninstall App</string>
+    <string name="action_share">Share App</string>
+    <string name="hello_world" tools:ignore="UnusedResources">Hello world!</string>
+    <string name="title_activity_simple" tools:ignore="UnusedResources">SimpleActivity</string>
+    <string name="title_activity_custom" tools:ignore="UnusedResources">CustomActivity</string>
+    <string name="menu_settings" tools:ignore="UnusedResources">Settings</string>
+    <string name="title_activity_main" tools:ignore="UnusedResources">MainActivity</string>
+    <string name="strobe" tools:ignore="UnusedResources">&lt; STROBE ></string>
+    <string name="rate_dialog_str_content">If you like Easy Touch, please take a minute to give your rating and help us make the app even better.</string>
+    <string name="lock" tools:ignore="UnusedResources">Mobile Security</string>
+    <string name="block_mess_string" tools:ignore="UnusedResources">SMS Filter - Block SMS</string>
+    <string name="block_call_string" tools:ignore="UnusedResources">Call Blocker - iBlackList</string>
+    <string name="lock_app_string" tools:ignore="UnusedResources">App Locker</string>
+    <string name="clean_string" tools:ignore="UnusedResources">Clean Master Memory Cleaner</string>
+    <string name="bat_saving_string" tools:ignore="UnusedResources">Battery Saver</string>
+    <string name="unlock" tools:ignore="UnusedResources">Utilities</string>
+    <string name="apps">Our Apps</string>
+    <string name="uninstall">Uninstall App</string>
+    <string name="eye_string" tools:ignore="UnusedResources">Eyes Healthcare</string>
+    <string name="capture_string" tools:ignore="UnusedResources">NO-ROOT Screen Recorder</string>
+    <string name="learn" tools:ignore="UnusedResources">Education</string>
+    <string name="english_string" tools:ignore="UnusedResources">Learn English with zrickydev</string>
+    <string name="configuration">Configuration</string>
+    <string name="icon_chooseer">Icon &amp; Emoji</string>
+    <string name="background_chooseer">Background</string>
+    <string name="enable_touch">Enable</string>
+    <string name="disable_touch">Disable</string>
+    <string name="adUnit_Id">"ca-app-pub-3104530433760081~1811475051"</string>
+    <string name="admob_banner">"ca-app-pub-3104530433760081/4764941457"</string>
+    <string name="admob_interstitial">"ca-app-pub-3104530433760081/6241674658"</string>
+
+    <string name="ad">Android Developer</string>
+    <string name="ms">Motivation Selfie</string>
+    <string name="bw">Board Words</string>
+    <string name="disable">Disable</string>
+</resources>

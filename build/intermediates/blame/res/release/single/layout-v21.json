@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ourdesignz/.android/build-cache/2122bbb9c746a1fdc8c41931f3dfd0eeed82f7e9/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

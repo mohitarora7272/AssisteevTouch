@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" tools:ignore="UnusedResources">
+    <item android:state_pressed="true" android:drawable="@color/white_press_setting_bg" />
+    <item android:state_focused="true" android:drawable="@color/white_press_setting_bg" />
+    <item android:drawable="@drawable/dialog_bg_white" />
+</selector>

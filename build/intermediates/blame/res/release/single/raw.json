@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/release/raw/light_switch_off.mp3",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/raw/light_switch_off.mp3"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/release/raw/light_switch_on.mp3",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/raw/light_switch_on.mp3"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_signal_wifi_off_grey" android:maxLevel="0" />
+    <item android:drawable="@drawable/ic_signal_wifi_on_white" android:maxLevel="1" />
+</level-list>

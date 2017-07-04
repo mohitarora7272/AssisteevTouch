@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/apps"
+            android:title="@string/apps">
+            <menu>
+                <item
+                    android:id="@+id/ad"
+                    android:checked="false"
+                    android:title="@string/ad" />
+                <item
+                    android:id="@+id/ms"
+                    android:checked="false"
+                    android:title="@string/ms" />
+                <item
+                    android:id="@+id/bw"
+                    android:checked="false"
+                    android:title="@string/bw" />
+            </menu>
+        </item>
+
+    </group>
+
+    <item
+        android:id="@+id/uninstall"
+        android:title="@string/uninstall" />
+</menu>
