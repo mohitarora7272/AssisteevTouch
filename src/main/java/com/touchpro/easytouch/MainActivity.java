@@ -399,7 +399,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     // Show Banner Ads
     private void showBannerAd() {
         mAdView = (AdView) findViewById(R.id.adsView);
-
         // For Testing Purpose
 //        AdRequest adRequest = new AdRequest.Builder()
 //                .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
