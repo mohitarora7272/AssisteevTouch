@@ -4277,7 +4277,6 @@ containing a value of this type.
     }
     public static final class xml {
         public static final int device_admin_sample=0x7f070000;
-        public static final int global_tracker=0x7f070001;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

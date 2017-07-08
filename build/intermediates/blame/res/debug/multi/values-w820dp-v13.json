@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 88,
+                        "endOffset": 443
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 86,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

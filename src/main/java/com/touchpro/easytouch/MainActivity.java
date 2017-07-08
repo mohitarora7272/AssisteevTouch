@@ -106,7 +106,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         });
     }
 
-
     public void iconChooser(View v) {
         IconSelectDialog iconSelectDialog;
         if (Build.VERSION.SDK_INT >= 11) {
@@ -444,6 +443,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     // Show Interstitial Ads
     private void loadInterstitialAds() {
+
         // Request a new ad if one isn't already loaded, hide the button, and kick off the timer.
         if (!mInterstitialAd.isLoading() && !mInterstitialAd.isLoaded()) {
             // For Testing Purpose

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/xml/device_admin_sample.xml",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/xml/device_admin_sample.xml"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/xml/device_admin_sample.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/xml/device_admin_sample.xml"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/xml/global_tracker.xml"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/xml/device_admin_sample.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/xml/device_admin_sample.xml"
     }
 ]

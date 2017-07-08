@@ -2365,4 +2365,3 @@ int styleable ViewStubCompat_android_id 0
 int styleable ViewStubCompat_android_inflatedId 2
 int styleable ViewStubCompat_android_layout 1
 int xml device_admin_sample 0x7f070000
-int xml global_tracker 0x7f070001

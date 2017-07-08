@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/menu/drawer.xml",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/menu/drawer.xml"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/menu/menu_main.xml"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/menu/menu_main.xml"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/menu/drawer.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/menu/drawer.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/menu/drawer.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/menu/drawer.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/menu/menu_main.xml"
     }
 ]

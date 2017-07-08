@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<set xmlns:tools="http://schemas.android.com/tools"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    tools:ignore="UnusedResources">
-    <rotate android:duration="5000" android:fromDegrees="0.0" android:toDegrees="360.0" android:pivotX="50.0%" android:pivotY="50.0%"
-      xmlns:android="http://schemas.android.com/apk/res/android" />
-    <rotate android:duration="5000" android:fromDegrees="360.0" android:toDegrees="0.0" android:pivotX="50.0%" android:pivotY="50.0%" android:startOffset="5000"
-      xmlns:android="http://schemas.android.com/apk/res/android" />
-</set>

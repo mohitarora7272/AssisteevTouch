@@ -1,266 +1,530 @@
 [
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_screen_rotation_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_screen_rotation_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hoctienganh.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/hoctienganh.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_backgroung_chooser.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_backgroung_chooser.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/powered_by_google_dark.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_off_grey.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_location_off_grey.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_standard_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_medium_off_client.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_signal_wifi_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_on_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_screen_lock_portrait_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_screen_lock_portrait_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/baovemat.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/baovemat.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_disable_touch.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_disable_touch.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_vibration_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_vibration_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bluetooth_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_bluetooth_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_small_noti_circle.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_small_noti_circle.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_screen_lock_portrait_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_screen_lock_portrait_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_flash_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_flash_off_grey.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_phone_iphone_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_phone_iphone_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting_change.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_setting_change.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_star_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_star_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplanemode_on_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_airplanemode_on_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_screen_lock_portrait_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_screen_lock_portrait_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_flash_on_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_flash_on_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_stay_current_portrait_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_stay_current_portrait_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting_change.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_setting_change.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_down_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_volume_down_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_location_off_grey.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_flash_off_grey.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_flash_off_grey.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_icon_chooser.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_icon_chooser.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplanemode_off_grey.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_airplanemode_off_grey.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tietkiempin.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/tietkiempin.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_stay_current_portrait_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_stay_current_portrait_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/powered_by_google_light.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/baovemat.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/baovemat.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chupmanhinh.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/chupmanhinh.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bluetooth_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_bluetooth_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/khoaungdung.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/khoaungdung.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chancuocgoi.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/chancuocgoi.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/powered_by_google_light.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_location_on_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bluetooth_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_bluetooth_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bluetooth_disabled_grey.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_bluetooth_disabled_grey.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/khoaungdung.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/khoaungdung.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_back_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_back_new.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tietkiempin.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/tietkiempin.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_applications_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_settings_applications_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_on_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_location_on_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/donrac.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/donrac.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_icon_chooser.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_icon_chooser.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chancuocgoi.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/chancuocgoi.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_vibration_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_vibration_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_small_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_flash_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_flash_on_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_vibration_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_vibration_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_enable_touch.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_enable_touch.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_up_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_volume_up_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_standard_off_client.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_off_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_volume_off_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplanemode_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_airplanemode_on_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_new.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_action_new.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_flash_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_flash_off_grey.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_home_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_small_noti_circle.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_small_noti_circle.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_up_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_volume_up_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_tall_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_signal_wifi_off_grey.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_off_grey.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chantinnhan.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/chantinnhan.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_small_off_client.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear_ram.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_clear_ram.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_screen_rotation_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_screen_rotation_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_signal_wifi_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_off_grey.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_icon_chooser.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_icon_chooser.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_disable_touch.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_disable_touch.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_applications_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_settings_applications_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_medium_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_arrow_back_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_signal_wifi_on_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_on_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_home_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bluetooth_disabled_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_bluetooth_disabled_grey.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_tall_off_client.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chantinnhan.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/chantinnhan.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_phone_iphone_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_phone_iphone_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_backgroung_chooser.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_backgroung_chooser.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_off_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_volume_off_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_up_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_volume_up_white.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tietkiempin.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/tietkiempin.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hoctienganh.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/hoctienganh.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_back_new.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_back_new.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chupmanhinh.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/chupmanhinh.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_star_white.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/ic_star_white.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_enable_touch.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_enable_touch.png"
     },
     {
-        "merged": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png",
-        "source": "/home/ourdesignz/Android_Studio_Workspace/Assisteev Touch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_standard_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_disable_touch.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_disable_touch.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_arrow_back_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/khoaungdung.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/khoaungdung.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/donrac.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/donrac.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplanemode_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_airplanemode_off_grey.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_small_noti_circle.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_small_noti_circle.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_down_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_volume_down_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_location_off_grey.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_tall_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_backgroung_chooser.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_backgroung_chooser.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bluetooth_disabled_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_bluetooth_disabled_grey.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chantinnhan.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/chantinnhan.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/donrac.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/donrac.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chupmanhinh.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/chupmanhinh.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_flash_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_flash_on_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_star_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_star_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear_ram.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_clear_ram.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_location_on_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hoctienganh.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/hoctienganh.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_arrow_back_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_screen_rotation_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_screen_rotation_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear_ram.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_clear_ram.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/baovemat.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/baovemat.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting_change.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_setting_change.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_small_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_signal_wifi_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_off_grey.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_signal_wifi_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_signal_wifi_on_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_stay_current_portrait_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_stay_current_portrait_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_phone_iphone_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_phone_iphone_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_down_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_volume_down_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_enable_touch.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_enable_touch.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_applications_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_settings_applications_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplanemode_on_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_airplanemode_on_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_airplanemode_off_grey.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_airplanemode_off_grey.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_home_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chancuocgoi.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/chancuocgoi.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_plusone_medium_off_client.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_volume_off_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch_New/app/src/main/res/drawable-xxhdpi/ic_volume_off_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_back_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/AssisteevTouch/app/src/main/res/drawable-xxhdpi/ic_back_new.png"
     }
 ]
